@@ -11,7 +11,8 @@ console.log(name);
 ```
 ---
 - 📚 I'm currently pursuing my BTech in Computer Science Engineering at Vellore Institute of Technology [Visit Website](https://vit.ac.in/ "VIT")
-- 🧠 I’m currently learning NodeJs & React
+- 🧠 I’m currently learning NextJs & TypeScript
+- 💻 SDE Intern @Amazon
 - 💻 Worked as a Web Developer(Intern) at TECHVOLT SOFTWARE PVT.LTD [Visit Website](https://www.techvoltcoimbatore.com/)
 - 💻 Worked as a Backend Developer(Intern) at IoTAGI [Visit Website](https://www.linkedin.com/company/iotagi)
 - 📫 How to reach me: ummenthala.anish@gmail.com
