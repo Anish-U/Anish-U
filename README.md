@@ -10,9 +10,9 @@ var name = "Anish says Hi!";
 console.log(name);
 ```
 ---
-- 📚 I'm currently pursuing my BTech in Computer Science Engineering at Vellore Institute of Technology [Visit Website](https://vit.ac.in/ "VIT")
-- 🧠 I’m currently working with technologies like NextJs & TypeScript
-- 💻 Ex-SDE Intern @Amazon
+- 🧠 I’m currently working with technologies like NestJS, NextJs & React Native
+- 📚 BTech Computer Science Engineering Graduate at Vellore Institute of Technology [Visit Website](https://vit.ac.in/ "VIT")
+- 💻 Ex-SDE Intern **@Amazon**
 - 💻 Worked as a Web Developer(Intern) at TECHVOLT SOFTWARE PVT.LTD [Visit Website](https://www.techvoltcoimbatore.com/)
 - 💻 Worked as a Backend Developer(Intern) at IoTAGI [Visit Website](https://www.linkedin.com/company/iotagi)
 - 📫 How to reach me: ummenthala.anish@gmail.com
