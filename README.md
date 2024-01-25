@@ -11,7 +11,8 @@ console.log(name);
 ```
 ---
 - 🧠 I’m currently working with technologies like NestJS, NextJs & React Native
-- 📚 BTech Computer Science Engineering Graduate at Vellore Institute of Technology [Visit Website](https://vit.ac.in/ "VIT")
+- 📚 BTech Computer Science Engineering Graduate at Vellore Institute of Technology
+- 📚 MS Computer Science at California State University Fullerton, CA 
 - 💻 Ex-SDE Intern **@Amazon**
 - 💻 Worked as a Web Developer(Intern) at TECHVOLT SOFTWARE PVT.LTD [Visit Website](https://www.techvoltcoimbatore.com/)
 - 💻 Worked as a Backend Developer(Intern) at IoTAGI [Visit Website](https://www.linkedin.com/company/iotagi)
